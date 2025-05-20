@@ -1,0 +1,10 @@
+Package: aiDetectRApp
+Title: Shiny Interface for aiDetectR
+Version: 0.0.1
+Imports:
+    shiny,
+    shinydashboard,
+    ggplot2,
+    aiDetectR
+Remotes:
+    alaninglis/aiDetectR
