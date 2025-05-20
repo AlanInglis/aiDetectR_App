@@ -4,7 +4,6 @@
 library(shiny)
 library(shinydashboard)
 library(ggplot2)
-library(aiDetectR)
 
 blue  <- "#1E88E5"
 light <- "#E3F2FD"

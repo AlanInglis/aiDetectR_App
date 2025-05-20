@@ -1,12 +1,8 @@
 Package: aiDetectRApp
-Title: Shiny Interface for aiDetectR
+Title: AI vs Human Image Detector (Shiny Demo)
 Version: 0.0.1
 Imports:
-    shiny,
-    shinydashboard,
-    ggplot2,
-    aiDetectR
-Remotes:
-    alaninglis/aiDetectR
-    
-    
+  shiny,
+  shinydashboard,
+  ggplot2,
+  reticulate
